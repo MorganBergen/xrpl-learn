@@ -20,7 +20,7 @@ understand the pre-requisit intro basics before diving into development on the B
 8.  [software ecosystem](#software-ecosystem)
 9.  [consensus research](#consensus-research)
 10. [white paper](#white-paper)
-11. [send xrp](#send-xrp)
+11. [[send xrp](https://github.com/MorganBergen/xrpl-learn/tree/main/src/00-send-xrp)
 
 ## xrpl
 
