@@ -6,6 +6,7 @@ understand the pre-requisit intro basics before diving into development on the B
 
 **contents**
 
+0.  [why](#why)
 1.  [xrpl](#xrpl)
 2.  [xrpl basics](#xrpl-basics)
 3.  [what is xrp](#what-is-xrp)
@@ -21,6 +22,12 @@ understand the pre-requisit intro basics before diving into development on the B
 9.  [consensus research](#consensus-research)
 10. [white paper](#white-paper)
 11. [send xrp](https://github.com/MorganBergen/xrpl-learn/tree/main/src/00-send-xrp)
+
+## why
+
+to secure internship at ripple [xrpl internship](https://ripple.com/careers/all-jobs/job/4805046?gh_jid=4805046)
+
+<img src="" width="100" height="100">
 
 ## xrpl
 
