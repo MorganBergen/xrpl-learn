@@ -29,6 +29,7 @@ understand the pre-requisit intro basics before diving into development on the B
 
 to secure internship at ripple [xrpl internship](https://ripple.com/careers/all-jobs/job/4805046?gh_jid=4805046)
 
+<img src="https://user-images.githubusercontent.com/65584733/218635063-84f0eb82-7638-4457-9836-77b019cc7abc.png"  height="600" align="center">
 
 ## xrpl
 
