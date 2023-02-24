@@ -208,9 +208,9 @@ XRPL (XRP Ledger) is a Distributed Ledger Technology, is a decentralized, public
 
 **X** - Asset
 
-**RP** - Ripple Labs
+**RP** - Ryan Fugger 
 
-The **X** Represents assets not issued by any country, via standarizations XRP is not issued by any country, thus for assets not issued by any country, the first letter must be X.  No country codes starting with X will be issued. So, for example, since the chemical symbol for gold is Au, gold’s currency code is XAU.  XRP’s first letter is X because XRP is not issued by any country.  In the early days, we called the ledger’s native asset “ripples”. So the natural currency code to choose was “XRP”.
+The **X** Represents assets not issued by any country, via standarizations XRP is not issued by any country, thus for assets not issued by any country, the first letter must be X.  
 
 **Examples**
 
