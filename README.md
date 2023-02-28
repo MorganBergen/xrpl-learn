@@ -200,7 +200,7 @@ main()
 
 `X prefix for non-national currencies in the ISO 4217 standard.`
 
-XRPL (XRP Ledger) is a Distributed Ledger Technology, is a decentralized, public blockchain led by a global developer community.  The ledger is owned by Ripple Labs Inc.  XRP is a Internationally recognized standarized asset/currency code validated and now compliant by ISO 20022 - ISO 2022 is under SWIFT known to be the Society for Worldwide Interbank Financial Telecommunications which provides a secure messaging system for financial transactions between participating banks.  A Currency Code is a code allocated to a currency by a Maintenance Agency under an international identification scheme as described in the latest edition of the international standard ISO "Codes for the representation of currencies and funds".
+XRPL (XRP Ledger) is a Distributed Ledger Technology, is a decentralized, public blockchain led by a global developer community.  The ledger is NOT owned by Ripple Labs Inc nor was it originally created by ripple.  XRP is a Internationally recognized standarized asset/currency code validated and now compliant by ISO 20022 - ISO 2022 is under SWIFT known to be the Society for Worldwide Interbank Financial Telecommunications which provides a secure messaging system for financial transactions between participating banks.  A Currency Code is a code allocated to a currency by a Maintenance Agency under an international identification scheme as described in the latest edition of the international standard ISO "Codes for the representation of currencies and funds".
 
 ##  what does XRP stand for?
 
@@ -208,9 +208,13 @@ XRPL (XRP Ledger) is a Distributed Ledger Technology, is a decentralized, public
 
 **X** - Asset
 
-**RP** - Ryan Fugger 
-
 The **X** Represents assets not issued by any country, via standarizations XRP is not issued by any country, thus for assets not issued by any country, the first letter must be X.  
+
+**RP** is a reference to Ryan Fugger's original "RipplePay" network that preceded blockchain technology.  
+
+**XRP** was created before the creation of the company Ripple / Ripple Labs. 
+
+[view reference](https://www.youtube.com/watch?v=zx4pYHGrHGA&t=493s)
 
 **Examples**
 
