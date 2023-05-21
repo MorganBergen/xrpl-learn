@@ -331,6 +331,7 @@ The XRP Ledger Consensus Protocol is a previously developed consensus protocol p
 ![1802 07242-24](https://user-images.githubusercontent.com/65584733/190039279-be635e78-bc85-4bfc-bd26-527cd108ec83.jpg)
 ![1802 07242-25](https://user-images.githubusercontent.com/65584733/190039280-da34d549-1f68-4609-935f-56f91f998274.jpg)
 
-## send xrp
+#  what is ripple
 
+Ripple is a payment protocol that uses blockchain technology to process international money transfers.
 
