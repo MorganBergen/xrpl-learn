@@ -2,8 +2,6 @@ const xrpl = require('xrpl');
 
 // insert the library into the global scope
 
-
-
 async function main() {
 	const morgan = new xrpl.Client("wss://s.altnet.rippletest.net:51233");
 
@@ -18,12 +16,13 @@ async function main() {
 
 	console.log(response.result.account_data.Balance);
 
-	// console.log("Balance: " + response.result.account_data.Balance);
+	console.log("Balance: " + response.result.account_data.Balance);
 
-	// console.log(response.command);
+	console.log(response.command);
 
 	morgan.disconnect();
 
 }
+
 main();
 
