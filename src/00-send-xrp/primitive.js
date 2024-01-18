@@ -42,6 +42,8 @@ async function main() {
         "ledger_index": "validated"
     });
 
+    console.log(response, "response");
+
     // print the response
     console.log(response);
 
