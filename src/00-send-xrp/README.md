@@ -93,18 +93,19 @@ morgan%
 ```
 ### Key Value Pairs of `response`
 
-Id
+`id`                  
 
-Result
-Account Data
+`result`
 
-Account 
+`account data`
 
-Balance
+`account`
 
-Flags
+`balance`
 
-LedgerEntryTag
+`flags`
+
+`LedgerEntryTag
 
 OwnerCount
 
@@ -124,10 +125,3 @@ validated
 
 type
 
-
-
-Login in 
-
-Novemeber 
-
-Jepordey Night 
