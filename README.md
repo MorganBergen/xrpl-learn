@@ -1,5 +1,12 @@
 # xrpl-learn
 
+THIS REPO IS CLOSED
+
+Before you archive, please consider:
+Updating any repository settings
+Closing all open issues and pull requests
+Making a note in your README
+
 understand the pre-requisit intro basics before diving into development on the Blockchain.   references and info can be sourced here [XRPL Concepts Page](https://xrpl.org/intro-to-consensus.html).  contains all relevant Information to understanding the xrp ledger as well as building and deploying applications on the dlt.
 
 [view documentation](https://xrpl.org/concepts.html)
